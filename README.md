@@ -1,4 +1,4 @@
-# School_Disctrict_Analysis
+# School_District_Analysis
 Project 4 of Data Analytics Bootcamp. Learning to use Python Libraries with school district data.
 ## Resources
 * Python version 3.8.8
