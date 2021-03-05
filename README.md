@@ -11,9 +11,9 @@ The purpose of the analysis was to provide a high - level snapshot of the school
   * ![Top 5 Schools by % Overall Passing](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Top_5_S_D_A.png)
   * ![Bottom 5 Schools by % Overall Passing](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Bottom_5_S_D_A.png)
 * The average math score received by students in each grade level at each school
-![Average Math Score by Grade Level](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Avg_Math_by_grade.png)
+ * ![Average Math Score by Grade Level](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Avg_Math_by_grade.png)
 * The average reading score received by students in each grade level at each school
-![Average Reading Score by Grade Level](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Avg_Read_by_grade.png)
+ * ![Average Reading Score by Grade Level](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Avg_Read_by_grade.png)
 * School performance based on the budget per student
 ![School Performance by Budget per Student](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Perform_by_budget_per_student.png)
 * School performance based on the school size
@@ -26,9 +26,9 @@ The purpose of the analysis was to provide a high - level snapshot of the school
   * ![Top 5 Schools by % Overall Passing after Correction](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Top_5_Corrected.png)
   * ![Bottom 5 Schools by % Overall Passing after Correction](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Botton_5_Corrected.png)
 * The average math score received by students in each grade level at each school
-![Corrected Average Math Score by Grade Level](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Corrected_Avg_Math_by_grade.png)
+ * ![Corrected Average Math Score by Grade Level](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Corrected_Avg_Math_by_grade.png)
 * The average reading score received by students in each grade level at each school
-![Corrected Average Reading Score by Grade Level](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Corrected_Avg_Reading_by_grade.png)
+ * ![Corrected Average Reading Score by Grade Level](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Corrected_Avg_Reading_by_grade.png)
 * School performance based on the budget per student
 ![Corrected School Performance by Budget per Student](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Corrected_Perform_by_budget_per_student.png)
 * School performance based on the school size 
