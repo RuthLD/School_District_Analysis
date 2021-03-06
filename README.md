@@ -47,12 +47,12 @@ All the summaries use only the 10th - 12th-grade math and reading scores for Tho
   * Thomas High School performance was not significantly affected by removing the 9th-grade math and reading scores and only using the 10th - 12th-grade math and reading scores. The school retained its second-place rank in the top 5 schools. The percentage of students passing math was reduced by 0.086481%, and the percentage of students passing reading was reduced by 0.29013%. The overall passing percentage decreased by 0.317688%.
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
-   * The only change is that the math and reading scores for the ninth grade from Thomas High School show "nan.”
+    * The only change is that the math and reading scores for the ninth grade from Thomas High School show "nan.”
   * Scores by school spending
-   * The scores by school spending were not affected.
+    * The scores by school spending were not affected.
   * Scores by school size
-   * The scores by school size were not affected.
+    * The scores by school size were not affected.
   * Scores by school type
-   * The scores by school size were not affected.
+    * The scores by school size were not affected.
 
 ## Summary
