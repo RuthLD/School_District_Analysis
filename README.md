@@ -40,21 +40,19 @@ The purpose of the analysis was to provide a high - level snapshot of the school
 All the summaries use only the 10th - 12th-grade math and reading scores for Thomas High School. The "nan" scores of the 9th grade were dropped. Had the "nan" scores of the 9th grade been included, all of Thomas High School's passing percentages would be around 30% lower than those presented here.
  
 * How is the district summary affected?
- * The % Passing Math, % Passing Reading, and the % Overall Passing decreased in the district summary after the ninth grade math and reading scores from Thomas High School were corrected to nan. Image District Summary Comparison shows the values from the initial District summary are in blue, and the values that changed after the correction are in red.
- * ![District Summary Comparison](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Change_District_Summary.png)
+  * The % Passing Math, % Passing Reading, and the % Overall Passing decreased in the district summary after the ninth grade math and reading scores from Thomas High School were corrected to nan. Image District Summary Comparison shows the values from the initial District summary are in blue, and the values that changed after the correction are in red. ![District Summary Comparison](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/Change_District_Summary.png)
 * How is the school summary affected?
- * The corrected school summary shows a decrease in Thomas High School's Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing. The Average Reading Score showed a slight increase. The image School Summary Comparison indicates the initial scores in blue, the scores that decreased after the correction in red, and the score that increased in green.
- * ![School Summary Comparison](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/School_summary_compare.png)
+  * The corrected school summary shows a decrease in Thomas High School's Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing. The Average Reading Score showed a slight increase. The image School Summary Comparison indicates the initial scores in blue, the scores that decreased after the correction in red, and the score that increased in green. ![School Summary Comparison](https://github.com/RuthLD/School_District_Analysis/blob/main/Resources/School_summary_compare.png)
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
- * Thomas High School performance was not significantly affected by removing the 9th-grade math and reading scores and only using the 10th - 12th-grade math and reading scores. The school retained its second-place rank in the top 5 schools. The percentage of students passing math was reduced by 0.086481%, and the percentage of students passing reading was reduced by 0.29013%. The overall passing percentage decreased by 0.317688%.
+  * Thomas High School performance was not significantly affected by removing the 9th-grade math and reading scores and only using the 10th - 12th-grade math and reading scores. The school retained its second-place rank in the top 5 schools. The percentage of students passing math was reduced by 0.086481%, and the percentage of students passing reading was reduced by 0.29013%. The overall passing percentage decreased by 0.317688%.
 * How does replacing the ninth-grade scores affect the following:
- * Math and reading scores by grade
-  * The only change is that the math and reading scores for the ninth grade from Thomas High School show "nan.”
- * Scores by school spending
-  * The scores by school spending were not affected.
- * Scores by school size
-  * The scores by school size were not affected.
- * Scores by school type
-  * The scores by school size were not affected.
+  * Math and reading scores by grade
+   * The only change is that the math and reading scores for the ninth grade from Thomas High School show "nan.”
+  * Scores by school spending
+   * The scores by school spending were not affected.
+  * Scores by school size
+   * The scores by school size were not affected.
+  * Scores by school type
+   * The scores by school size were not affected.
 
 ## Summary
